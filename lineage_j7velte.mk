@@ -29,3 +29,6 @@ PRODUCT_DEVICE := j7velte
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
+
+#Bootanimation
+TARGET_BOOT_ANIMATION_RES=720
